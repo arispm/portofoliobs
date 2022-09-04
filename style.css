@@ -1,0 +1,37 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#education {
+  background-color: #e2edff;
+}
+
+#contact {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+img.exp {
+  width: 100%;
+  height: auto;
+}
+
+.bg {
+  margin: 0 0 30px 0;
+}
+
+@media (min-width: 320px) {
+  .card-body {
+    font-size: 10px;
+  }
+}
+
+@media (min-width: 375px) {
+  .card-body {
+    font-size: 13px;
+  }
+}
